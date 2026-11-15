@@ -1,0 +1,32 @@
+{
+  "keyword": "Sekiro: Shadows Die Twice",
+  "slug": "get-sekiro-cairngorm",
+  "game": "sekiro",
+  "lang": "en",
+  "variant": "multi",
+  "variant_title": "Multi-Cheat Pack",
+  "angle": 1,
+  "short_link": "https://share.google/pJdSdWJO26MpdoDcx",
+  "destination": "https://githubguru.at/s/1xvA0cXT",
+  "topics": [],
+  "batch": 14,
+  "anticheat": "None (single-player)",
+  "modules": [],
+  "has_skins": false,
+  "players": 5718,
+  "keepalive": {
+    "file": ".github/workflows/scheduled-update.yml",
+    "name": "Auto update",
+    "crons": [
+      "57 9 * * *",
+      "17 19 * * *"
+    ]
+  },
+  "button": {
+    "shape": "s3",
+    "label": "Quick setup",
+    "icon": "download"
+  },
+  "files": 24,
+  "bytes": 1502880
+}
